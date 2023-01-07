@@ -11,7 +11,7 @@
 
     <groupId>com.zzg</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.3</version>
+    <version>1.1.0</version>
     <name>common</name>
     <description>张中贵的工具包欢迎补充</description>
 
@@ -51,6 +51,12 @@
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
             <version>5.8.11</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>31.1-jre</version>
         </dependency>
     </dependencies>
 
